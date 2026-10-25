@@ -1,0 +1,14 @@
+INDIA POLITICAL BOUNDARY GIS CONFIGURATION
+==========================================
+
+Place your official India Boundary vector file here:
+Target Path: india_boundary.geojson
+Supported Formats: GeoJSON (.geojson), ESRI Shapefile (.shp), GeoPackage (.gpkg)
+
+Recommended Official Sources:
+1. Survey of India (Official Portal: https://surveyofindia.gov.in/)
+2. Bharat Maps / National Remote Sensing Centre (NRSC / ISRO Bhuvan)
+3. Natural Earth Data (Admin 0 - Countries)
+
+Ensure the boundary file contains accurate EPSG:4326 (WGS84 Lat/Lon) coordinates.
+Configure your satellite image bounding box in config.py (DEFAULT_GEO_EXTENT) to match your SatDump capture.

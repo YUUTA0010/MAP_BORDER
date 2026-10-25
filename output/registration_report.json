@@ -1,0 +1,19 @@
+{
+  "image": "C:\\Users\\LEGEND_10\\OneDrive\\Desktop\\india_ml\\input\\satellite.png",
+  "width": 2800,
+  "height": 4768,
+  "feature_method": "ICP_SHAPE",
+  "image_keypoints": 1793,
+  "reference_keypoints": 1793,
+  "candidate_matches": 1,
+  "good_matches": 1,
+  "ransac_inliers": 1,
+  "inlier_ratio": 1.0,
+  "reprojection_error": 0.0,
+  "transformation_type": "affine_with_icp_refinement",
+  "registration_confidence": 1.0,
+  "land_overlap_score": 0.7706323687031083,
+  "india_visible": true,
+  "india_visible_percentage": 2.24253838632294,
+  "status": "SUCCESS"
+}

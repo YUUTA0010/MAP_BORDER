@@ -1,0 +1,4 @@
+{
+  "status": "FAILED",
+  "message": "Transform estimation failed: No transform passed confidence and geometric validation (need at least 12 inliers and 10% inlier ratio)."
+}
